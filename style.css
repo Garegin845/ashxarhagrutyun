@@ -1,0 +1,256 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Noto Sans Armenian', 'Montserrat', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.h1{
+    position: absolute;
+    font-size: 18px;
+    top: 500px;
+    left: 170px;
+}
+
+.img1{
+    width: 1718px;
+    height: 462px;
+    object-position: center;
+    object-fit: cover;
+    
+}
+.p1{
+    
+    margin-bottom: 11px;
+    font-size: 11pt;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 26px;
+    position: absolute;
+    top: 580px;
+    left: 170px;
+    color:#2e2e2e;
+}
+
+.h2{
+    position: absolute;
+    font-size: 18px;
+    top: 760px;
+    left: 170px;
+}
+
+.p2{
+    position: absolute;
+    top: 800px;
+    left: 170px;
+    color:#2e2e2e;
+    margin-bottom: 11px;
+    font-size: 11pt;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 26px;
+}
+.p3{
+    position: absolute;
+    top: 860px;
+    left: 170px;
+    color:#2e2e2e;
+    margin-bottom: 11px;
+    font-size: 11pt;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 26px;
+}
+.img2{
+   position: absolute;
+   top: 1000px;
+   left: 600px;
+}
+
+.h3{
+    position: absolute;
+    font-size: 18px;
+    top: 1300px;
+    left: 170px;
+}
+.p4{
+    position: absolute;
+    top: 1360px;
+    left: 170px;
+    color:#2e2e2e;
+    margin-bottom: 11px;
+    font-size: 11pt;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 26px;
+}
+
+.img3{
+    position: absolute;
+   top: 1650px;
+   left: 600px;
+}
+.h4{
+    position: absolute;
+    font-size: 18px;
+    top: 2000px;
+    left: 170px;
+}
+.p5{
+    position: absolute;
+    top: 2060px;
+    left: 170px;
+    color:#2e2e2e;
+    margin-bottom: 11px;
+    font-size: 11pt;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 26px;  
+}
+.img4{
+    position: absolute;
+   top: 2400px;
+   left: 600px;
+}
+.h5{
+    position: absolute;
+    font-size: 18px;
+    top: 2700px;
+    left: 170px; 
+}
+.p6{
+    position: absolute;
+    top: 2760px;
+    left: 170px;
+    color:#2e2e2e;
+    margin-bottom: 11px;
+    font-size: 11pt;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 26px;  
+}
+.img5{
+    position: absolute;
+    top: 2950px;
+    left: 600px;
+}
+.h6{
+        position: absolute;
+    font-size: 18px;
+    top: 3200px;
+    left: 170px; 
+}
+.p7{
+    position: absolute;
+    top: 3260px;
+    left: 170px;
+    color:#2e2e2e;
+    margin-bottom: 11px;
+    font-size: 11pt;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 26px;  
+}
+.img8{
+    position: absolute;
+    top: 300px;
+    left: 430px;
+}
+.h7{
+    position: absolute;
+    font-size: 18px;
+    top: 3800px;
+    left: 170px;  
+}
+.p8{
+    position: absolute;
+    top: 3860px;
+    left: 170px;
+    color:#2e2e2e;
+    margin-bottom: 11px;
+    font-size: 11pt;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 26px;  
+}
+.img9{
+    position: absolute;
+    top: 4120px;
+    left: 600px;
+}
+.h8{
+    position: absolute;
+    font-size: 18px;
+    top: 4470px;
+    left: 170px;  
+ 
+}
+.p9{
+    position: absolute;
+    top: 4520px;
+    left: 170px;
+    color:#2e2e2e;
+    margin-bottom: 11px;
+    font-size: 11pt;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 26px;  
+}
+.img10{
+    position: absolute;
+    top: 4670px;
+    left: 600px;
+}
+.h9{
+    position: absolute;
+    font-size: 18px;
+    top: 4970px;
+    left: 170px;  
+ 
+}
+.p10{
+    position: absolute;
+    top: 5020px;
+    left: 170px;
+    color:#2e2e2e;
+    margin-bottom: 11px;
+    font-size: 11pt;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 26px;  
+}
+.img11{
+    position: absolute;
+    top: 5330px;
+    left: 600px;
+}
+.h11{
+
+    position: absolute;
+    font-size: 18px;
+    top: 5650px;
+    left: 170px;  
+}
+.p11{
+    position: absolute;
+    top: 5720px;
+    left: 170px;
+    color:#2e2e2e;
+    margin-bottom: 11px;
+    font-size: 11pt;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 26px;  
+}
+.img12{
+    position: absolute;
+    top: 6100px;
+    left: 600px;
+}
+h3{
+    font-size: 6px;
+}
